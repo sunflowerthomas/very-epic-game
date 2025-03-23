@@ -1,5 +1,6 @@
 {
     "name": "very epic game",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
