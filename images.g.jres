@@ -1,4 +1,9 @@
 {
+    "image1": {
+        "data": "hwQQABAAAABE5ETkTkRETkTkRORORERORORE5E5ERE5E5ETkTkRETkTkRORORERORORE5E5ERE5E5ETkTkRETkTkRORORERORORE5E5ERE5E5ETkTkRETkTkRORORERORORE5E5ERE5E5ETkTkRETkTkRORORERORORE5E5ERE5E5ETkTkRETg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "planks"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
